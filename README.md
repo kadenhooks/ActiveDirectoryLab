@@ -21,3 +21,12 @@ Homelab documenting the setup and configuration of a Windows Server 2022 Active 
 
 <h2>What I configured</h2>
 
+
+
+<h2>Documentation</h2>
+- [Setup](01-setup/README.md)
+
+
+
+
+
