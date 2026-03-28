@@ -21,6 +21,8 @@ Homelab documenting the setup and configuration of a Windows Server 2022 Active 
 ## Documentation
 - [Setup](01-setup/README.md)
 - [AD-DS](02-ad-ds/README.md)
+- [DNS & DHCP](03-dns-dhcp/README.md)
+
 
 ## Status
 🟡 In progress
